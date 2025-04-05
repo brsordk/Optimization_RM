@@ -73,8 +73,8 @@ function optimize_I_tot_clean()
         end
     end
 
-    writetable(all_results, 'Optimization Results.xlsx');                   % Export the results into an MS Excel File
-    disp('✅ Results saved to Optimization Results.xlsx');
+    writetable(all_results, 'optimized_Impacts.xlsx');                   % Export the results into an MS Excel File
+    disp('✅ Results saved to optimized_Impacts.xlsx');
 
     fprintf('\n-----------------------------------------------------\n');   % Display the Optimization and Impact Results
     fprintf('                 OPTIMIZATION RESULTS                \n');
