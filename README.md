@@ -3,7 +3,8 @@
 This MATLAB project performs **environmental impact optimization** for composite materials used in **rotational moulding**. It analyzes the effect of varying the **abaca fibre content** (0–20%) in a composite made of **Low Density Polyethylene (LDPE), PEMA**, and **Abaca fibre**, and determines the fibre ratio that minimizes environmental impacts across multiple categories.
 
 ---
-Baris Ördek‬ (1*), Christian Spreafico (1), 
+Baris Ördek‬ (1*), Christian Spreafico (1)
+
 (1) Department of Management Information and Production Engineering, University of Bergamo, Viale Marconi 5, 24044 Dalmine (Bg), Italy. (*) baris.ordek@unibg.it
 
 
