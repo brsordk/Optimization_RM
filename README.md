@@ -51,15 +51,10 @@ Baris Ördek‬ (1*) & Christian Spreafico (1)
 - MATLAB (R2021a or later recommended)
 - Optimization Toolbox
 ---
----
-
-
----
 ### 🔐 License
 
 This project is licensed under the **GNU GPL v3.0**.  
 You may freely use, distribute, and modify it under the license terms.
-
 
 For full license details, see [LICENSE](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
@@ -69,8 +64,9 @@ For full license details, see [LICENSE](https://www.gnu.org/licenses/gpl-3.0.en.
 - **Christian Spreafico**  
 
 ## 📩 Contact
+
 baris.ordek@unibg.it
-For academic collaborations or questions, feel free to open an issue or reach out to the authors.
+For academic collaborations or questions, feel free to open an issue or reach out to the authors.******
 ---
 
 ### ▶️ Run the Optimization
