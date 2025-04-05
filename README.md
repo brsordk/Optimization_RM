@@ -57,7 +57,7 @@ Baris Ördek‬ (1*) & Christian Spreafico (1)
 optimize_I_tot
 
 
-## 🔐 License
+### 🔐 License
 
 This project is licensed under the **GNU GPL v3.0**.  
 You may freely use, distribute, and modify it under the license terms.
