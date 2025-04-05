@@ -66,6 +66,7 @@ For full license details, see [LICENSE](https://www.gnu.org/licenses/gpl-3.0.en.
 ## 📩 Contact
 
 For academic collaborations or questions, feel free to open an issue or reach out to the authors.
+
 ---
 
 ### ▶️ Run the Optimization
