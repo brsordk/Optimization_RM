@@ -4,6 +4,7 @@ This MATLAB project performs **environmental impact optimization** for composite
 
 ---
 Baris Ördek‬ (1*) & Christian Spreafico (1)
+
 (1) Department of Management Information and Production Engineering, University of Bergamo, Viale Marconi 5, 24044 Dalmine (Bg), Italy. (*) baris.ordek@unibg.it
 
 ---
