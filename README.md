@@ -55,25 +55,3 @@ Baris Ördek‬ (1*) & Christian Spreafico (1)
 
 ```matlab
 optimize_I_tot
-
----
-
-
----
-### 🔐 License
-
-This project is licensed under the **GNU GPL v3.0**.  
-You may freely use, distribute, and modify it under the license terms.
-
-
-For full license details, see [LICENSE](https://www.gnu.org/licenses/gpl-3.0.en.html).
-
-## 🙋‍♀️ Authors
-
-- **Baris Ördek**
-- **Christian Spreafico**  
-
-## 📩 Contact
-baris.ordek@unibg.it
-For academic collaborations or questions, feel free to open an issue or reach out to the authors.
----
