@@ -1,6 +1,6 @@
 % <Copyright>
-% Author:   Baris Ördek
-% Contact:  baris.ordek@unibg.it - barisordek@gmail.com
+% Author:   Baris Ördek & Christian Spreafico
+% Contact:  baris.ordek@unibg.it - christian.spreafico@unibg.it
 % Update:   05/04/25
 % Version:  1.0.0
 % License: GNU General Public License v3.0
